@@ -2,21 +2,16 @@
 **Backload** is a professional, full featured server side file handler for ASP.NET (MVC, Web API, Web Forms, HTML) and ASP.NET Core running on Windows, Linux and Mac. It has been developed as part of a commercial product for the aero craft industry. 
 While Backload out of the box handles the client side [jQuery File Upload Plugin](https://github.com/blueimp/jQuery-File-Upload) from blueimp, [PlUpload](https://github.com/moxiecode/plupload) from Moxiecode and [Fine Uploader](http://fineuploader.com/) from Widen Enterprises, it can be easily customized to work with any client side plugin.
 
-<br />
+&nbsp;   
 ### ASP.NET Core support
 Updated: Support status for the new ASP.NET Core based project types. [More ...](https://github.com/blackcity/Backload/wiki/ASP.NET-Core-support)
 
-<br />
+&nbsp;   
 ### Project website
 General information, editions and how to get a Pro/Enterprise license:
 [http://backload.org](http://backload.org). 
 
-<!--
-<br />
-### Release 2.1: 
-[Release 2.1 final package](https://github.com/blackcity/Backload/releases/download/v2.1.5.0/Backload.Standard.2.1.Full.zip)<br />
--->
-<br />
+&nbsp;   
 ### Current release 2.2.7/2.2.8:
 [Release 2.2.8 ASP.NET Core package (cross-platform)](https://github.com/blackcity/Backload/raw/master/Examples/Backload.Standard.2.2/Backload.ASPNETCore.Developer.zip?raw=true)<br />
 Filesystem and database storage examples, including file chunking demos, classic html/aspx demos, server side events, Web Api controller, post processing and more for the ASP.NET Core framework (Windows/Linux/Mac).<br />
@@ -28,11 +23,11 @@ Filesystem and database storage examples, including file chunking demos, classic
 20 Microsoft Azure Blob Storage examples, including file chunking demos, classic html/aspx demos, server side events, Web Api controller, post processing and more.
 
 
-<br />
+&nbsp;   
 ### Cloud storage
 Currently, we are developing the cloud storage feature and we need your help! Tell us the features you really need, how your application will use cloud storage, what cloud provider you prefer, etc. Your [feedback](#direct-contact) will influence the development directly.
 
-<br />
+&nbsp;   
 ### Highlights
 **Backload** is a feature rich server side component which can be fully customized (declaratively) within the web.config file (resp. a linked config file). Complex storage structures are supported and handled by the component without a single line of code, whether the storage location is the file system or a database. If you want to upload different file types (images, pdfs, doc, etc) content type based subfolders can be configured to automatically store different file types in different sub folders (e.g. /images, /pdfs, /movies, etc).
 
@@ -46,7 +41,7 @@ The zero configuration feature allows quick setups, a default MVC controller is 
 
 Upload files to **Windows Azure** cloud storage services from your Azure VM or web role and access the files from anywhere.
 
-<br />
+&nbsp;   
 ### Features
 * Running on Windows, Linux and Mac OS X (MacOs)
 * Zero configuration: The defaults set up a fully functional server side file upload controller and handler.
@@ -68,13 +63,13 @@ Upload files to **Windows Azure** cloud storage services from your Azure VM or w
 + Database storage: Store files in a database, a Sql Server FILESTREAM blob, a Sql Server FileTable or on a related file in the filesystem. (File chunking support for all methods).
 + Cloud storage: [Upload files](https://github.com/blackcity/Backload/wiki/Azure-File-Storage) to Windows Azure cloud services and access the files from anywhere.
 
-<br />
+&nbsp;   
 ### Documentation
 [General](https://github.com/blackcity/Backload/wiki)<br />
 [Setup instructions](https://github.com/blackcity/Backload/wiki/Setup)<br />
 [Options, settings and enumerations](https://github.com/blackcity/Backload/wiki/Configuration)
 
-<br />
+&nbsp;   
 ### Examples
 Note: Release 2.0 demo package includes 15 new examples.<br />
 [Example 01: Zero configuration](https://github.com/blackcity/Backload/wiki/Example-01)<br />
@@ -88,30 +83,30 @@ Note: Release 2.0 demo package includes 15 new examples.<br />
 [Example 13: Tracing: Use tracing to identify problems and log errors](https://github.com/blackcity/Backload/wiki/Example-13)<br />
 [Example 14: Large files: How to setup file chunking](https://github.com/blackcity/Backload/wiki/Example-14)<br />
 
-<br />
+&nbsp;   
 ### Roadmap
 #### Cloud storage
 Cloud storage will mark our next milestone. We start with giving you the basic means storing data in a cloud storage in the same manner Backload provides for the local file system or databases. Then we will support popular cloud storage providers out of the box. Help is much appreciated! Don't hesitate to show us your code. 
 
-<br />
+&nbsp;   
 ### Frequently asked questions
 Before posting read the [FAQ](https://github.com/blackcity/Backload/wiki/faq)
 
-<br />
+&nbsp;   
 ### Licenses and editions
-You can get a license for a Professional or Enterprise edition here: [http://backload.org/](http://backload.org/). 
+You can get a license for a Professional or Enterprise Edition here: [http://backload.org/](http://backload.org/). 
 Or read the FAQ about the different [licenses](https://github.com/blackcity/Backload/wiki/faq#versions-and-licenses)
 
-<br />
+&nbsp;   
 ### News, releases, plans and more
 Follow us on Twitter (just started) [@Backload_org](https://twitter.com/backload_org)
 
-<br />
+&nbsp;   
 ### Direct contact
 For customers and commercial requests only: backload.org [at] gmail [dot] com.
 
-<br />
+&nbsp;   
 ### License
-[Backload. (Standard version)](https://github.com/blackcity/Backload): Copyright 2016, Steffen Habermehl, License (Standard version): MIT license<br />
+[Backload. (Standard version)](https://github.com/blackcity/Backload): Copyright 2017, Steffen Habermehl, License (Standard version): MIT license<br />
 Professional and Enterprise (source code) version are available under a commercial license.<br/>
 Follow us on Twitter: [@Backload_org](https://twitter.com/backload_org)
