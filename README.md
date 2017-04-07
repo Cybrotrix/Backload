@@ -13,13 +13,13 @@ General information, editions and how to get a Pro/Enterprise license:
 
 &nbsp;   
 ### Current release 2.2.7/2.2.8:
-[Release 2.2.8 ASP.NET Core package (cross-platform)](https://github.com/blackcity/Backload/raw/master/Examples/Backload.Standard.2.2/Backload.ASPNETCore.Developer.zip?raw=true)<br />
-Filesystem and database storage developer package, including file chunking demos, classic html/aspx demos, server side events, Web Api controller, post processing and more for the ASP.NET Core framework (Windows/Linux/Mac).<br />
-[Release 2.2.7 Database package](https://github.com/blackcity/Backload/blob/master/Examples/Backload.Standard.2.2/Backload.Database.Developer.zip?raw=true)<br />
-24 database storage developer package, including support for Entity Framework, Sql Server FILESTREAMS, Sql Server FileTables, external file data storage, client side plugins, file chunking, classic html/aspx, Web Api and more.<br />
-[Release 2.2.7 FileSystem package](https://github.com/blackcity/Backload/blob/master/Examples/Backload.Standard.2.2/Backload.FileSystem.Developer.zip?raw=true)<br />
+[ASP.NET Core developer package (cross-platform)](https://github.com/blackcity/Backload/raw/master/Examples/Backload.Standard.2.2/Backload.ASPNETCore.Developer.zip?raw=true)<br />
+25 examples for filesystem, database and Azure Blob Storage, including file chunking demos, classic html/aspx demos, server side events, Web Api controller, post processing and more for ASP.NET Core (Windows/Linux/Mac).<br />
+[Database developer package](https://github.com/blackcity/Backload/blob/master/Examples/Backload.Standard.2.2/Backload.Database.Developer.zip?raw=true)<br />
+25 database storage developer package, including support for Entity Framework, Sql Server FILESTREAMS, Sql Server FileTables, external file data storage, client side plugins, file chunking, classic html/aspx, Web Api and more.<br />
+[FileSystem developer package](https://github.com/blackcity/Backload/blob/master/Examples/Backload.Standard.2.2/Backload.FileSystem.Developer.zip?raw=true)<br />
 20 filesystem storage developer package, including file chunking demos, classic html/aspx demos, server side events, Web Api controller, post processing and more.<br />
-[Release 2.2.7 Azure Blob Storage package](https://github.com/blackcity/Backload/blob/master/Examples/Backload.Standard.2.2/Backload.AzureBlobStorage.Developer.zip?raw=true)<br />
+[Azure Blob Storage developer package](https://github.com/blackcity/Backload/blob/master/Examples/Backload.Standard.2.2/Backload.AzureBlobStorage.Developer.zip?raw=true)<br />
 20 Microsoft Azure Blob Storage developer package, including file chunking demos, classic html/aspx demos, server side events, Web Api controller, post processing and more.
 
 
