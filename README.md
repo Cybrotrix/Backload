@@ -71,7 +71,7 @@ Upload files to **Windows Azure** cloud storage services from your Azure VM or w
 
 &nbsp;   
 ### Examples
-Note: The following examples may contain depreciated code. The [developer package](Current_release_2.2.7-2.2.8) contains more than 20 examples.<br />
+Note: The following examples may contain depreciated code. The [developer package](#current-release-227228) contains more than 20 up-to-date examples.<br />
 [Example 01: Zero configuration](https://github.com/blackcity/Backload/wiki/Example-01)<br />
 [Example 02: Configuration basics: Using web.config](https://github.com/blackcity/Backload/wiki/Example-02)<br />
 [Example 03: Configuration basics: Using an external config file](https://github.com/blackcity/Backload/wiki/Example-03)<br />
