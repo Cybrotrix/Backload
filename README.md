@@ -15,11 +15,11 @@ General information, editions and how to get a Pro/Enterprise license:
 ### Current release 2.2.7/2.2.8:
 [Release 2.2.8 ASP.NET Core package (cross-platform)](https://github.com/blackcity/Backload/raw/master/Examples/Backload.Standard.2.2/Backload.ASPNETCore.Developer.zip?raw=true)<br />
 Filesystem and database storage examples, including file chunking demos, classic html/aspx demos, server side events, Web Api controller, post processing and more for the ASP.NET Core framework (Windows/Linux/Mac).<br />
-[Release 2.2.7 Database package](https://github.com/blackcity/Backload/blob/master/Examples/Backload.Standard.2.2/Backload.Database.Demo.zip?raw=true)<br />
+[Release 2.2.7 Database package](https://github.com/blackcity/Backload/blob/master/Examples/Backload.Standard.2.2/Backload.Database.Developer.zip?raw=true)<br />
 24 database storage examples, including support for Entity Framework, Sql Server FILESTREAMS, Sql Server FileTables, external file data storage, client side plugins, file chunking, classic html/aspx, Web Api and more.<br />
-[Release 2.2.7 FileSystem package](https://github.com/blackcity/Backload/blob/master/Examples/Backload.Standard.2.2/Backload.FileSystem.Demo.zip?raw=true)<br />
+[Release 2.2.7 FileSystem package](https://github.com/blackcity/Backload/blob/master/Examples/Backload.Standard.2.2/Backload.FileSystem.Developer.zip?raw=true)<br />
 20 filesystem storage examples, including file chunking demos, classic html/aspx demos, server side events, Web Api controller, post processing and more.<br />
-[Release 2.2.7 Azure Blob Storage package](https://github.com/blackcity/Backload/blob/master/Examples/Backload.Standard.2.2/Backload.AzureBlobStorage.Demo.zip?raw=true)<br />
+[Release 2.2.7 Azure Blob Storage package](https://github.com/blackcity/Backload/blob/master/Examples/Backload.Standard.2.2/Backload.AzureBlobStorage.Developer.zip?raw=true)<br />
 20 Microsoft Azure Blob Storage examples, including file chunking demos, classic html/aspx demos, server side events, Web Api controller, post processing and more.
 
 
@@ -71,7 +71,7 @@ Upload files to **Windows Azure** cloud storage services from your Azure VM or w
 
 &nbsp;   
 ### Examples
-Note: Release 2.0 demo package includes 15 new examples.<br />
+Note: The following examples may contain depreciated code. The [developer package](Current_release_2.2.7-2.2.8) contains more than 20 examples.<br />
 [Example 01: Zero configuration](https://github.com/blackcity/Backload/wiki/Example-01)<br />
 [Example 02: Configuration basics: Using web.config](https://github.com/blackcity/Backload/wiki/Example-02)<br />
 [Example 03: Configuration basics: Using an external config file](https://github.com/blackcity/Backload/wiki/Example-03)<br />
